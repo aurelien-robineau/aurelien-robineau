@@ -7,5 +7,5 @@ I want it clean, scalable and well-documented 👊!
 I know I have still a lot to learn 🌱. And that is what I am doing every day trying to improve my code.
 
 ### Get in touch 🤝
- * [LinkedIn](https://www.linkedin.com/in/aur%C3%A9lien-robineau/?locale=en_US)
+ * [LinkedIn](https://www.linkedin.com/in/aurelien-robineau/?locale=en_US)
  * [Stack Overflow](https://stackoverflow.com/users/11132458/muzak)
